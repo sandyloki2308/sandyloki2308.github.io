@@ -4,10 +4,11 @@
 
 h1{
   text-align: center;
+  background-color: red;
 }
 
 p {
-  background-color: #bfbfbf;
+  background-color: skyblue;
   border: 2px solid black;
   height: 150px;
   margin-right: 10px;
@@ -22,7 +23,7 @@ p {
 }
 
 #p1 {
-  background-color: #D59898;
+  background-color: #fe9321;
   position: absolute;
   top: 0;
   right: 0;
@@ -35,8 +36,8 @@ p {
 
 }
 #p2 {
-  background-color:#C14543 ;
-  color: white;
+  background-color: orange;
+  color: black;
   position: absolute;
   top: 0;
   right: 0;
@@ -49,7 +50,7 @@ p {
 
 }
 #p3 {
- background-color: #E5D198;
+ background-color: #52ff00;
   position: absolute;
   top: 0;
   right: 0;
